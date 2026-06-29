@@ -8,10 +8,9 @@ Bem vindo ao meu currículo Web. Conecte-se comigo:
 * [E-MAIL](mailto:afonsocesardossantos4@gmail.com)
 
 ## MINHAS HABILIDADES
-```markdown
+
 | Categoria | Tecnologias | Proficiência |
 | :--- | :--- | :---: |
 | **Linguagens** | SQL, C#, HTML5, CSS3, JS | Intermediário |
 | **Ferramentas** | GitHub, VS Code, Workbench | Intermediário |
 | **Sistemas** | Linux, Windows | Intermediário |
-```
