@@ -11,7 +11,7 @@ Bem vindo ao meu currículo Web. Conecte-se comigo:
 ```markdown
 ## MINHAS HABILIDADES
 | Categoria | Tecnologias | Proficiência |
-| :--- | :--- | :--- |
+| :--- | :--- | :---: |
 | **Linguagens** | SQL, C#, HTML5, CSS3, JS | Intermediário |
 | **Ferramentas** | GitHub, VS Code, Workbench | Intermediário |
 | **Sistemas** | Linux, Windows | Intermediário |
