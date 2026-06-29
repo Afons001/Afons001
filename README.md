@@ -11,9 +11,9 @@ Bem vindo ao meu currículo web. Conecte-se comigo:
 
 | Categoria | Tecnologias | Proficiência |
 | :--- | :--- | :---: |
-| *Linguagens* | SQL, C#, HTML5, CSS3, JS | Intermediário |
-| *Ferramentas* | GitHub, VS Code, Workbench | Intermediário |
-| *Sistemas* | Linux, Windows | Intermediário |
+| **Linguagens** | SQL, C#, HTML5, CSS3, JS | Intermediário |
+| **Ferramentas** | GitHub, VS Code, Workbench | Intermediário |
+| **Sistemas** | Linux, Windows | Intermediário |
 
 ## Objetivos atuais e futuros
 
