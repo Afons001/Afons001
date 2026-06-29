@@ -19,7 +19,7 @@ Bem vindo ao meu currículo Web. Conecte-se comigo:
 
 - [x] Criar currículo web no GitHub
 - [x] Dominar sintaxe básica d markdown
-- [ ]Aprender conceitos avançados de versionamento
+- [ ] Aprender conceitos avançados de versionamento
 - [ ] Contribuir para um projeto
 Open Source
 - [ ] Conquistar a primeira vaga como Desenvolvedor Júnior
